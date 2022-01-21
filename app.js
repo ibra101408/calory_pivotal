@@ -8,8 +8,8 @@ const ItemCtrl = (function (){
     const data = {
         items: [
             {id: 0, name: 'Cookie', calories: 1200},
-            {id: 1, name: 'Eggs', calories: 400},
-            {id: 2, name: 'Cheese', calories: 650},
+            {id: 1, name: 'Cheese', calories: 650},
+            {id: 2, name: 'Eggs', calories: 400},
         ],
         total: 0
     }
